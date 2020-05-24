@@ -1,0 +1,14 @@
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcClient\bin\Debug\netcoreapp2.0\Snai.GrpcClient.deps.json
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcClient\bin\Debug\netcoreapp2.0\Snai.GrpcClient.runtimeconfig.json
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcClient\bin\Debug\netcoreapp2.0\Snai.GrpcClient.runtimeconfig.dev.json
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcClient\bin\Debug\netcoreapp2.0\Snai.GrpcClient.dll
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcClient\bin\Debug\netcoreapp2.0\Snai.GrpcClient.pdb
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcClient\bin\Debug\netcoreapp2.0\Snai.GrpcService.Protocol.dll
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcClient\bin\Debug\netcoreapp2.0\Snai.GrpcService.Protocol.pdb
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcClient\obj\Debug\netcoreapp2.0\Snai.GrpcClient.csprojAssemblyReference.cache
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcClient\obj\Debug\netcoreapp2.0\Snai.GrpcClient.csproj.CoreCompileInputs.cache
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcClient\obj\Debug\netcoreapp2.0\Snai.GrpcClient.AssemblyInfoInputs.cache
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcClient\obj\Debug\netcoreapp2.0\Snai.GrpcClient.AssemblyInfo.cs
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcClient\obj\Debug\netcoreapp2.0\Snai.GrpcClient.csproj.CopyComplete
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcClient\obj\Debug\netcoreapp2.0\Snai.GrpcClient.dll
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcClient\obj\Debug\netcoreapp2.0\Snai.GrpcClient.pdb

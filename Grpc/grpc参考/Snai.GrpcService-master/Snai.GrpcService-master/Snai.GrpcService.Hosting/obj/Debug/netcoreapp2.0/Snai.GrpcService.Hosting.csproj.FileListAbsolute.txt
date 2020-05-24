@@ -1,0 +1,16 @@
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Hosting\bin\Debug\netcoreapp2.0\Snai.GrpcService.Hosting.deps.json
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Hosting\bin\Debug\netcoreapp2.0\Snai.GrpcService.Hosting.runtimeconfig.json
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Hosting\bin\Debug\netcoreapp2.0\Snai.GrpcService.Hosting.runtimeconfig.dev.json
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Hosting\bin\Debug\netcoreapp2.0\Snai.GrpcService.Hosting.dll
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Hosting\bin\Debug\netcoreapp2.0\Snai.GrpcService.Hosting.pdb
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Hosting\bin\Debug\netcoreapp2.0\Snai.GrpcService.Impl.dll
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Hosting\bin\Debug\netcoreapp2.0\Snai.GrpcService.Protocol.dll
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Hosting\bin\Debug\netcoreapp2.0\Snai.GrpcService.Impl.pdb
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Hosting\bin\Debug\netcoreapp2.0\Snai.GrpcService.Protocol.pdb
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Hosting\obj\Debug\netcoreapp2.0\Snai.GrpcService.Hosting.csprojAssemblyReference.cache
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Hosting\obj\Debug\netcoreapp2.0\Snai.GrpcService.Hosting.csproj.CoreCompileInputs.cache
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Hosting\obj\Debug\netcoreapp2.0\Snai.GrpcService.Hosting.AssemblyInfoInputs.cache
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Hosting\obj\Debug\netcoreapp2.0\Snai.GrpcService.Hosting.AssemblyInfo.cs
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Hosting\obj\Debug\netcoreapp2.0\Snai.GrpcService.Hosting.csproj.CopyComplete
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Hosting\obj\Debug\netcoreapp2.0\Snai.GrpcService.Hosting.dll
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Hosting\obj\Debug\netcoreapp2.0\Snai.GrpcService.Hosting.pdb

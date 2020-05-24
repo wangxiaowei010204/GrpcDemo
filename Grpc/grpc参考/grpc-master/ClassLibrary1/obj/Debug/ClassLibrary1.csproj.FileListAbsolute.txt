@@ -1,0 +1,6 @@
+E:\git\grpc\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+E:\git\grpc\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+E:\git\grpc\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+E:\git\grpc\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\git\grpc\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+E:\git\grpc\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

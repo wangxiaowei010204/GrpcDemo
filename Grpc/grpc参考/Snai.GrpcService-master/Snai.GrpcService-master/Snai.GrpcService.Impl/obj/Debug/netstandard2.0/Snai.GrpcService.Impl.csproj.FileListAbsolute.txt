@@ -1,0 +1,12 @@
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Impl\bin\Debug\netstandard2.0\Snai.GrpcService.Impl.deps.json
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Impl\bin\Debug\netstandard2.0\Snai.GrpcService.Impl.dll
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Impl\bin\Debug\netstandard2.0\Snai.GrpcService.Impl.pdb
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Impl\bin\Debug\netstandard2.0\Snai.GrpcService.Protocol.dll
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Impl\bin\Debug\netstandard2.0\Snai.GrpcService.Protocol.pdb
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Impl\obj\Debug\netstandard2.0\Snai.GrpcService.Impl.csprojAssemblyReference.cache
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Impl\obj\Debug\netstandard2.0\Snai.GrpcService.Impl.csproj.CoreCompileInputs.cache
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Impl\obj\Debug\netstandard2.0\Snai.GrpcService.Impl.AssemblyInfoInputs.cache
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Impl\obj\Debug\netstandard2.0\Snai.GrpcService.Impl.AssemblyInfo.cs
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Impl\obj\Debug\netstandard2.0\Snai.GrpcService.Impl.csproj.CopyComplete
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Impl\obj\Debug\netstandard2.0\Snai.GrpcService.Impl.dll
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Impl\obj\Debug\netstandard2.0\Snai.GrpcService.Impl.pdb

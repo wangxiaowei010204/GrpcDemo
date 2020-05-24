@@ -1,0 +1,16 @@
+D:\汪晓伟\demo\GrpcLibrary\bin\Debug\netstandard2.0\GrpcLibrary.deps.json
+D:\汪晓伟\demo\GrpcLibrary\bin\Debug\netstandard2.0\GrpcLibrary.dll
+D:\汪晓伟\demo\GrpcLibrary\obj\Debug\netstandard2.0\GrpcLibrary.AssemblyInfoInputs.cache
+D:\汪晓伟\demo\GrpcLibrary\obj\Debug\netstandard2.0\GrpcLibrary.AssemblyInfo.cs
+D:\汪晓伟\demo\GrpcLibrary\bin\Debug\netstandard2.0\GrpcLibrary.pdb
+D:\汪晓伟\demo\GrpcLibrary\obj\Debug\netstandard2.0\GrpcLibrary.dll
+D:\汪晓伟\demo\GrpcLibrary\obj\Debug\netstandard2.0\GrpcLibrary.pdb
+D:\汪晓伟\demo\Grpc\GrpcLibrary\bin\Debug\netstandard2.0\GrpcLibrary.deps.json
+D:\汪晓伟\demo\Grpc\GrpcLibrary\bin\Debug\netstandard2.0\GrpcLibrary.dll
+D:\汪晓伟\demo\Grpc\GrpcLibrary\bin\Debug\netstandard2.0\GrpcLibrary.pdb
+D:\汪晓伟\demo\Grpc\GrpcLibrary\obj\Debug\netstandard2.0\GrpcLibrary.csprojAssemblyReference.cache
+D:\汪晓伟\demo\Grpc\GrpcLibrary\obj\Debug\netstandard2.0\GrpcLibrary.csproj.CoreCompileInputs.cache
+D:\汪晓伟\demo\Grpc\GrpcLibrary\obj\Debug\netstandard2.0\GrpcLibrary.AssemblyInfoInputs.cache
+D:\汪晓伟\demo\Grpc\GrpcLibrary\obj\Debug\netstandard2.0\GrpcLibrary.AssemblyInfo.cs
+D:\汪晓伟\demo\Grpc\GrpcLibrary\obj\Debug\netstandard2.0\GrpcLibrary.dll
+D:\汪晓伟\demo\Grpc\GrpcLibrary\obj\Debug\netstandard2.0\GrpcLibrary.pdb

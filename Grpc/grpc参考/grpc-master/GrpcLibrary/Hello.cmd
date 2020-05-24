@@ -1,0 +1,1 @@
+protoc -I . --csharp_out ./server --grpc_out ./server --plugin=protoc-gen-grpc=grpc_csharp_plugin.exe hello.proto

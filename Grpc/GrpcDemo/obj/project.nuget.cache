@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "brIBm6FLuXhYE5XPagOfhibi1BXQVX/gT+rp4SCf38+idQY1RTee65fou9VNA7CAEnTNMQjUAsvGyNum5V6haw==",
+  "success": true,
+  "projectFilePath": "D:\\汪晓伟\\demo\\Grpc\\GrpcDemo\\GrpcServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\louyp\\.nuget\\packages\\google.protobuf\\3.9.2\\google.protobuf.3.9.2.nupkg.sha512",
+    "C:\\Users\\louyp\\.nuget\\packages\\grpc\\2.24.0\\grpc.2.24.0.nupkg.sha512",
+    "C:\\Users\\louyp\\.nuget\\packages\\grpc.core\\2.24.0\\grpc.core.2.24.0.nupkg.sha512",
+    "C:\\Users\\louyp\\.nuget\\packages\\grpc.core.api\\2.24.0\\grpc.core.api.2.24.0.nupkg.sha512",
+    "C:\\Users\\louyp\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\louyp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\louyp\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\louyp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\louyp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

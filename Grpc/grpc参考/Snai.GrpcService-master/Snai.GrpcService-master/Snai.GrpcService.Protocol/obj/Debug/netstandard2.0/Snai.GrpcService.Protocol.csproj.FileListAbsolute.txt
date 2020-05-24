@@ -1,0 +1,9 @@
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Protocol\bin\Debug\netstandard2.0\Snai.GrpcService.Protocol.deps.json
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Protocol\bin\Debug\netstandard2.0\Snai.GrpcService.Protocol.dll
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Protocol\bin\Debug\netstandard2.0\Snai.GrpcService.Protocol.pdb
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Protocol\obj\Debug\netstandard2.0\Snai.GrpcService.Protocol.csproj.CoreCompileInputs.cache
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Protocol\obj\Debug\netstandard2.0\Snai.GrpcService.Protocol.AssemblyInfoInputs.cache
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Protocol\obj\Debug\netstandard2.0\Snai.GrpcService.Protocol.AssemblyInfo.cs
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Protocol\obj\Debug\netstandard2.0\Snai.GrpcService.Protocol.dll
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Protocol\obj\Debug\netstandard2.0\Snai.GrpcService.Protocol.pdb
+C:\Users\louyp\Desktop\Snai.GrpcService-master\Snai.GrpcService-master\Snai.GrpcService.Protocol\obj\Debug\netstandard2.0\Snai.GrpcService.Protocol.csprojAssemblyReference.cache

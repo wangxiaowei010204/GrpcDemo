@@ -1,0 +1,35 @@
+syntax = "proto3";
+package GrpcLibrary;
+service HelloService{ 
+
+rpc GetSum(GetMsgNumRequest) returns (GetMsgSumReply){};
+
+rpc test(GetLotID)returns(GetLotAll){};
+
+rpc GetMul(GetMegNumMul)returns(GetMegNumMulReply){};
+}
+message GetMsgNumRequest {  int32 Num1 = 1;  int32 Num2 = 2;}
+message GetMsgSumReply {  int32 Sum = 1;}
+
+message GetLotID{int32 Num1=1;string s=2;}
+
+message GetLotAll{
+enum Lists{
+  mes=0;
+  wip=1;
+  eap=2;
+  dcs=3;
+}
+Lists t=1;
+
+repeated UserList user=2;
+}
+
+message UserList{
+ string userName=1;
+ string pwd=2;
+}
+
+message GetMegNumMul {  int32 Num1 = 1;  int32 Num2 = 2;}
+
+message GetMegNumMulReply {  int32 Mul = 1;}
